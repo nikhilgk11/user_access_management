@@ -1,8 +1,5 @@
 # User Access Management System
 
-## 🎥 Project Demo
-**[View Project Demo Video](https://drive.google.com/file/d/1r0LseGcTFgqfteqt5m9bcJzacuovqDu6/view?usp=sharing)**
-
 > ⚠️ **Important**: Please review the demo video for a complete walkthrough of the project features and functionality.
 
 ## Project Overview
@@ -60,8 +57,7 @@ db.username=your_username
 db.password=your_password
 ```
 
-## Quick Links
-- 📹 [Project Demo Video](https://drive.google.com/file/d/1r0LseGcTFgqfteqt5m9bcJzacuovqDu6/view?usp=sharing)
+
 
 ## Contributing
 Feel free to fork this project and submit pull requests.
