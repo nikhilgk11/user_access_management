@@ -1,0 +1,7 @@
+servlet\ApprovalServlet.class
+servlet\SignUpServlet.class
+servlet\UpdateRequestStatusServlet.class
+servlet\SoftwareServlet.class
+servlet\ManageUserServlet.class
+servlet\RequestServlet.class
+servlet\LoginServlet.class
